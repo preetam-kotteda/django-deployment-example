@@ -25,7 +25,7 @@ SECRET_KEY = 'l^wu8p-+8*6#j9xr_m*j-@awha7smm-^p%b3_8i*7($nvm^o_^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['preetam.pythonanywhere.com']
 
 
 # Application definition
